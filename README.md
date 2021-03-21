@@ -1,4 +1,4 @@
-# thaiming.github.io
+# Vanilla JS Chanllenge
 
 노마드코더에서 바닐라JS를 공부했습니다.
 
