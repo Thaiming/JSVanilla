@@ -50,3 +50,7 @@ input {
     outline: none;
     border: 0px;
 }
+
+.todo-input {
+    margin-top: 10px;
+}
