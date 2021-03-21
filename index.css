@@ -7,6 +7,11 @@
     display: block;
 }
 
+.clock {
+    font-size: 150px;
+    margin: 5% 0;
+}
+
 body {
     display: flex;
     flex-direction: column;
